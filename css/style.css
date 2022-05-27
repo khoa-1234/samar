@@ -40,6 +40,7 @@
     text-decoration: none;
     font-weight: 500;
     text-transform: capitalize;
+    color: #262626;
 }
 .header .container .header_content .nav .menu li{
     padding: 55px 15px;
@@ -380,6 +381,7 @@
     color: #f55f8d;
     z-index: 1;
     transition: all 1s;
+    margin-bottom: 25px;
 }
 .features__item h3{
     font-weight: 800;
@@ -538,7 +540,7 @@
 }
 .plan
 {
-   background-image:url(../img/bg16.png);
+   background-image:url(../Samar/bg16.png);
    background-size:cover;
    background-position:center;
    text-align:center;
@@ -579,7 +581,7 @@ margin-bottom: 20px;
 
 .plan__item:hover
 {
-   border-image:url(../img/br.png) 1 round
+   border-image:url(../Samar/br.png) 1 round
 }
 
 .plan__item img
@@ -658,7 +660,7 @@ margin-bottom: 20px;
 .testimonial
 {
    text-align:center;
-   background-image:url(../img/bg17.png);
+   background-image:url(../Samar/bg17.png);
    background-size:100%;
    background-position:center;
    background-repeat:no-repeat;
@@ -746,7 +748,7 @@ margin-bottom: 20px;
    position:absolute;
    left:0;
    bottom:0;
-   background-image:url(../img/pattern12.png);
+   background-image:url(../Samar/pattern12.png);
    background-position:bottom;
    background-size:contain;
    height:100%;
@@ -895,7 +897,7 @@ margin-bottom: 20px;
 
 footer
 {
-   background-image:url(../img/bg4.png);
+   background-image:url(../Samar/bg4.png);
    display:block;
    height:auto;
    background-repeat:no-repeat;
@@ -910,7 +912,7 @@ footer
 footer::before
 {
    content:"";
-   background-image:url(../img/pattern2.png);
+   background-image:url(../Samar/pattern2.png);
    background-position:left top;
    background-repeat:no-repeat;
    background-size:contain;
@@ -927,7 +929,7 @@ footer::before
    background-color:#fff;
    border-radius:10px;
    box-shadow:0 0 30px 0 rgba(0,0,0,.1);
-   background-image:url(../img/pattern3.png);
+   background-image:url(../Samar/pattern3.png);
    background-position:bottom;
    background-repeat:no-repeat;
    background-size:100%;
